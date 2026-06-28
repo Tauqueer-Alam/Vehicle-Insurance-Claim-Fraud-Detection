@@ -2,7 +2,7 @@
 
 ClaimGuard AI is a premium machine learning dashboard designed to assess vehicle insurance claim fraud risk. Built specifically for insurance underwriters and risk auditors, this project demonstrates a complete production-grade machine learning workflow—handling severe class imbalance, deploying state-of-the-art gradient boosting classifiers, and implementing business-centric evaluation metrics like **Audit Efficiency (Lift)**.
 
-### 🔗 Live Dashboard: `[Insert Your Streamlit Cloud Link Here]`
+### 🔗 Live Dashboard: https://vehicle-insurance-claim-fraud-detection.streamlit.app/
 
 ---
 
